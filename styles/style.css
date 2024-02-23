@@ -5,8 +5,17 @@
     min-height: 0;
 }
 
+a { 
+    text-decoration: inherit;
+    color: #fff;
+}
+
+ul {
+    list-style: none ;
+}
+
 
 body {
     background-color: #FF7B54;
-    color: #fff;
+    color: inherit; 
 }
